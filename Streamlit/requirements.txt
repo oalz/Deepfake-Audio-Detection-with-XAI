@@ -8,4 +8,4 @@ keras==2.8.0
 Keras-Preprocessing==1.1.2
 lime==0.2.0.1
 scikit-image==0.17.2
-numpy==1.19.5
+numpy==1.20
